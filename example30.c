@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int a=10;
-    int b=20;
-    int c;
-
-    c=+a - -b;
+     int a = 10;
+     int b = 20;
+     int c;
+     c     = +a - -b;
     printf("%d\n",c);
-    c=sizeof(a)+-b;
+    c      = sizeof(a)+-b;
     printf("%d\n",c);
 
-    return 0;
+return 0;
 }
