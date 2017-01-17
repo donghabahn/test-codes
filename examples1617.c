@@ -7,6 +7,7 @@ int main(){
     area=width*height/2.0;
     printf("AREA: %.1f\n",area);
 
+
     sum=math+eng+physics;
     avg=sum/3.0;
     printf("SUM: %.2f, AVERAGE: %.2f\n",sum,avg);
