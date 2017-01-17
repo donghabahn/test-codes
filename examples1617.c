@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS_
 
 int main(){
     double width=5,height=3;
