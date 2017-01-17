@@ -3,7 +3,7 @@
 int main(){
     double width=5,height=3;
     double area;
-    double math=4.0,eng=3.67,physics=4.00,avg,sum;
+    double math=80,eng=60,physics=90,avg,sum;
     area=width*height/2.0;
     printf("AREA: %.1f\n",area);
 
